@@ -27,7 +27,7 @@
 	</ul>
 </details>
 <details>
-	<summary><h3>Text Editor</h3></summary>
+	<summary><h3>Text editor</h3></summary>
 	<ul>
 		<li><a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">VS Code</a> with nearly everything turned off</li>
 		<li><a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">Gruvbox</a> theme</li>
