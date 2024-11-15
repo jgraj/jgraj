@@ -1,4 +1,3 @@
-<h2>My current stack</h2>
 <details>
 	<summary><h3>Operating system and tools</h3></summary>
 	<p>Windows 11</p>
