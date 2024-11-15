@@ -2,7 +2,7 @@
 	<summary><h3>Operating system and tools</h3></summary>
 	<p>Windows 11</p>
 	<p><a href="https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux">WSL</a> as needed</p>
-	<p><a href="https://en.wikipedia.org/wiki/ECMAScript">ECMAScript</a> for quick/one-time hacking, <a href="https://en.wikipedia.org/wiki/Batch_file">Batch</a>/<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">Bash</a> for **very** simple tools, C++ for anything more complex</p>
+	<p><a href="https://en.wikipedia.org/wiki/ECMAScript">ECMAScript</a> for quick/one-time hacking, <a href="https://en.wikipedia.org/wiki/Batch_file">Batch</a>/<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">Bash</a> for <b>very</b> simple tools, C++ for anything more complex</p>
 </details>
 <details>
 	<summary><h3>Programming language</h3></summary>
