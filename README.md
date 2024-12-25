@@ -11,13 +11,14 @@
 		<li>
 			C++ in the style of C
 			<ul>
-				<li>👍 namespaces</li>
 				<li>👍 templates</li>
 				<li>👍 most C features</li>
 				<li>😐 <code>goto</code></li>
 				<li>😐 macros</li>
 				<li>👎 standard library</li>
 				<li>👎 smart pointers</li>
+				<li>👎 namespaces</li>
+				<li>👎 headers</li>
 				<li>👎 exceptions</li>
 				<li>👎 function overloading</li>
 				<li>👎 constructors</li>
